@@ -1,5 +1,7 @@
 # OO_graduate_pre_YULI
-The file include two andriod project:
+team member: Yu Li
+
+The file include two andriod projects, which can be ran and inspected in android studio:
 
 ---recyc: shows a RecycleView List implemented with the help of RecyclerViewAdapter.java, which contains an adapter that binds the data onto recyler list.
 This design follows the idea of adapter pattern.
